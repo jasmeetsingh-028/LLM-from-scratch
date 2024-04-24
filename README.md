@@ -1,5 +1,7 @@
 # LLM-from-scratch 
 
+[![Read Article](https://img.shields.io/badge/Read%20Article-Medium-blue)](https://medium.com/@sjasmeet135/transforming-text-generation-the-power-of-transformers-in-llms-703b236fa03b)
+
 ## Overview
 
 ## Bigram Language Model
